@@ -6,6 +6,9 @@ Este es un proyecto que implementa un pipeline CI/CD básico utilizando GitHub A
 
 El proyecto está basado en una aplicación web sencilla que utiliza Node.js y Express. Implementa pruebas unitarias e integración utilizando Jest y Supertest. El pipeline de CI/CD se configura a través de GitHub Actions para ejecutar pruebas automatizadas y desplegar la aplicación a GitHub Pages.
 
+### TESTS:
+![image](https://github.com/user-attachments/assets/52debbea-206b-4b63-97e8-a2d3a0b15bc6)
+
 ### Tecnologías utilizadas:
 - **Node.js**: Backend de la aplicación.
 - **Express**: Framework para crear el servidor.
